@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/gabrielf/godep-sandbox/_demo/demopack"
-	"github.com/gabrielf/godep-sandbox/demo/_demopack"
+	"github.com/gabrielf/go-underscore-sandbox/_demo/demopack"
+	"github.com/gabrielf/go-underscore-sandbox/demo/_demopack"
 )
 
 func main() {

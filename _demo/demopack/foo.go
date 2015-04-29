@@ -3,5 +3,5 @@ package demopack
 import "fmt"
 
 func Foo() {
-	fmt.Println("Foo")
+	fmt.Println("From _demo/demopack")
 }
